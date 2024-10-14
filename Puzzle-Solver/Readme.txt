@@ -1,8 +1,4 @@
-
-Name: Anirudh Kashyap Ramesh
-Net ID: 1002216351
-email ID: axk6351@mavs.uta.edu
-
+Puzzle-Solver
 
 programming Language: Python
 
